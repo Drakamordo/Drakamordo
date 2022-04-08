@@ -1,4 +1,4 @@
-![](https://img.shields.io/static/v1?label=:point_right:%20The%20good%20time&message=@to%20make%20this%20world%20better%20!!!&color=gold)
+![](https://img.shields.io/static/v1?label=%20The%20good%20time&message=%20to%20make%20this%20world%20better%20!!!&color=gold)
 
 
 <!---
