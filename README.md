@@ -1,6 +1,4 @@
-![](https://img.shields.io/static/v1?label=Hi,%20I%E2%80%99m&message=@Drakamordo&color=gold)
-
-:point_right: The good time to make this world better !!!
+![](https://img.shields.io/static/v1?label=:point_right:%20The%20good%20time&message=@to%20make%20this%20world%20better%20!!!&color=gold)
 
 
 <!---
